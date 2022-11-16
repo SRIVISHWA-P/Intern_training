@@ -1,3 +1,4 @@
+#Search an element in an array
 print("\nTo populate the list please enter the elements")
 arr=[]
 while True:
